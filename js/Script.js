@@ -49,7 +49,7 @@ const projectstwo = [
   {
     title: 'snapbuy',
     imgSrc: 'img/snpbuy.jpg',
-    liveDemo: 'https://uyfudywg.github.io/Snapbuy/',
+    liveDemo: 'https://snapbuy-gules.vercel.app/login',
     sourceCode: 'https://github.com/uyfudywg/Snapbuy.git',
     type: 'Angular'
   },
